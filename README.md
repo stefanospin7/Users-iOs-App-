@@ -8,13 +8,15 @@ https://jsonplaceholder.typicode.com/users
 
 ***
 
-## Screenshots:
 
-##ListView:
+
+https://user-images.githubusercontent.com/94653280/177283876-0404e4be-4d7a-4f7a-b43b-0ac7fc2d175f.mov
+
+
+
+
 ***
 
 ![ListView](https://user-images.githubusercontent.com/94653280/177183541-a63a4d98-204a-4fd3-8556-1458a3537618.png)
 
-##ProfileView:
-***
-![Profile](https://user-images.githubusercontent.com/94653280/177183593-1fff9747-8b65-4d33-acfe-c2c5dfc0e84a.png)
+
